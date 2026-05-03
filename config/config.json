@@ -1,0 +1,60 @@
+{
+  "site": {
+    "title": "Md. Mehedi Hasan Tushar",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_white": "/images/logo-light.png",
+    "logo_width": "150",
+    "logo_height": "39",
+    "logo_text": "Tushar"
+  },
+  "settings": {
+    "theme_switcher": true,
+    "default_theme": "system",
+    "pagination": 6,
+    "InnerPaginationOptions": {
+      "enableTop": false,
+      "enableBottom": true
+    },
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+  "params": {
+    "tag_manager_id": "",
+    "footer_content": "MD. Mehedi Hasan Tushar - Software Engineer (Backend & Frontend). Experienced in building full-stack web applications using Laravel, ASP.NET MVC, Next.js, and React. Focused on scalable architecture, API development, and dynamic UI integration.",
+    "copyright": "© 2026 MD. Mehedi Hasan Tushar | Software Engineer (Backend & Frontend) | All Rights Reserved."
+  },
+  "metadata": {
+    "meta_author": "MD. Mehedi Hasan Tushar",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "MD. Mehedi Hasan Tushar - Software Engineer (Backend & Frontend). Experienced in Laravel, ASP.NET MVC, Next.js, and React. Building scalable and efficient web applications."
+  },
+  "widgets": {
+    "about": {
+      "enable": true,
+      "content": "MD. Mehedi Hasan Tushar is a Software Engineer (Backend & Frontend) with experience in Laravel, ASP.NET MVC, Next.js, and React. Passionate about building scalable, efficient, and user-friendly web applications."
+    },
+    "featured_posts": {
+      "enable": true,
+      "title": "Featured Projects",
+      "showPost": 3
+    },
+    "categories": {
+      "enable": true,
+      "title": "Technologies"
+    },
+    "newsletter": {
+      "enable": true,
+      "title": "Stay Updated",
+      "content": "Get updates about my latest projects, skills, and development insights.",
+      "privacy_policy_page": "#",
+      "malichipm_url": ""
+    }
+  },
+  "disqus": {
+    "enable": true,
+    "shortname": "tushar-portfolio",
+    "settings": {}
+  }
+}
