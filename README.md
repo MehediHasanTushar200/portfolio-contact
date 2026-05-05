@@ -1,33 +1,22 @@
-<h1 align=center>Geeky Nextjs</h1>
+<h1 align="center">Professional Portfolio</h1>
 
+<p align="center">
+  <strong>Md. Mehedi Hasan Tushar</strong><br>
+  Backend Focused Software Engineer | PHP Laravel | ASP.NET MVC | Next.js
+</p>
 
-#### Preview
+---
 
- - [Demo](https://themewagon.github.io/geeky-nextjs/)
+## About Me
+I am a software developer based in Uttara, Dhaka, currently working at HAMKO Group. This portfolio showcases my journey, skills, and the projects I've built using modern web technologies.
 
-#### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/geeky-nextjs/)
- 
- 
+## Tech Stack
+- **Frontend:** Next.js, React, TailwindCSS
+- **Backend:** PHP Laravel, ASP.NET MVC, REST APIs
+- **Tools:** Git, GitHub, VS Code
+
 ## Getting Started
 
-Clone from GitHub 
-```
-https://github.com/themewagon/geeky-nextjs.git
-```
-
-## Author
-
-Design and code are completely written by Statichunt's design and development team.  
-
-
-## License
-
- - Design and Code is Copyright &copy; [Statichunt](https://statichunt.com/)
- - Licensed under [MIT]
- - Distributed by [ThemeWagon](https://themewagon.com)
-
-
-
-
-
+First, install the dependencies:
+```bash
+npm install
